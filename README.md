@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me 
 Thanks for coming by my github!  I am a creative-thinking problem-solver, with a background in film production.  It was there that I learned the value of collaborative team-effort, and working hard under pressure.  I'm happy to be here and to contribute to the wonderful world of the internet! (Or interwebs, as we used to say.)
-Please feel free to take a look at my portfolio! <a href="https://ericabreig.github.io/my-portfolio/">
+Please feel free to take a look at [my portfolio!][https://ericabreig.github.io/my-portfolio/]
 
 ### When I am not coding, I am:
 - cuddling my kitties (I have 3: two floofs, and a nakey!)
