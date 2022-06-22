@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## About Me 
-```
 Thanks for coming by my github!  I am a creative-thinking problem-solver, with a background in film production.  It was there that I learned the value of collaborative team-effort, and working hard under pressure.  I'm happy to be here and to contribute to the wonderful world of the internet! (Or interwebs, as we used to say.)
 
 ### When I am not coding, I am:
@@ -26,7 +25,7 @@ Thanks for coming by my github!  I am a creative-thinking problem-solver, with a
 - Writing in my journal, or drafting a screenplay
 - LARPing in Europe
 - Watching the film Cyrano repeatedly and singing along
-```
+
 
 ## ✨Skills✨
 
