@@ -45,5 +45,5 @@ Please feel free to take a look at <a href="https://ericabreig.github.io/my-port
 
 <a href="https://www.linkedin.com/in/erica-breig-0ba071ba/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <!-- <a href="twitter link"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a> -->
-<!-- <a href="https://youtube.com/c/RekaDarnB86"><img src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a> -->
+<!-- <a href="youtubelink"><img src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a> -->
 <a href="mailto:ericabreig@gmail.com"><img src="https://img.icons8.com/emoji/48/000000/e-mail.png"/></a>
