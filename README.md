@@ -20,6 +20,7 @@ Thanks for coming by my github!  I am a creative-thinking problem-solver, with a
 I firmly believe in the idea of spreading joy, love, (and silliness) where ever you go, and leaving things better than how you found them.
 </br>
 I want to contribute to making the world a bit more accessible, safe, and fun for everyone -- including online. </br>
+</br>
 Please feel free to take a look at <a href="https://ericabreig.github.io/my-portfolio/">my portfolio!</a>
 
 ### When I am not coding, I am:
