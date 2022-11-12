@@ -38,7 +38,9 @@ Please feel free to take a look at <a href="https://ericabreig.github.io/my-port
 - HTML 
 - CSS
 - JavaScript
+- React
 - Bootstrap
+- React Bootstrap
 - Web and Third-Party APIs
 - Node
 - MySQL2
