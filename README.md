@@ -21,7 +21,7 @@ I firmly believe in the idea of spreading joy, love, (and silliness) whereever y
 </br>
 I want to contribute to making the world a bit more accessible, safe, and fun for everyone -- including online. </br>
 </br>
-Check out my <a href="https://github.com/EricaBreig/ericabreig/blob/main/Erica_Breig_Resume_WD_2023.pdf"> resume</a>
+Check out my <a href="https://github.com/EricaBreig/ericabreig/blob/main/Erica_Breig_Resume_WD_2023.pdf"> resume</a>!
 
 ### When I am not coding, I am:
 - cuddling my kitties (I have 3: two floofs, and a nakey!)
