@@ -41,9 +41,9 @@ Please feel free to take a look at <a href="https://ericabreig.github.io/my-port
 - React
 - Bootstrap
 - React Bootstrap
-- Web and Third-Party APIs
+- Web and Third-Party APIs such as PokéAPI
 - Node
-- MySQL2
+- SQL
 ```
 
 
