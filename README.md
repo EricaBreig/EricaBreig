@@ -35,15 +35,17 @@ Check out my <a href="https://github.com/EricaBreig/ericabreig/blob/main/Erica_B
 ## ✨Skills✨
 
 ```
-- HTML 
-- CSS
-- JavaScript
+- HTML5 
+- CSS/SCSS
+- JavaScript/TypeScript
+- Git
 - React
 - Bootstrap
 - React Bootstrap
 - Web and Third-Party APIs such as PokéAPI
 - Node
 - SQL
+- WordPress
 ```
 
 
